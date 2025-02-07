@@ -25,7 +25,7 @@ El servidor está diseñado para manejar errores, utilizar variables de entorno 
 1️⃣ **Clonar el repositorio:**
 ```sh
 git clone https://github.com/wuuanito/nodejs-dragonball-characters.git
-cd dragonball-api-express
+cd nodejs-dragonball-characters
 ```
 
 2️⃣ **Instalar dependencias:**
